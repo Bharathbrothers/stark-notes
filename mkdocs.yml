@@ -1,1 +1,9 @@
 site_name: Stark Notes for GATE CS
+
+nav:
+    - Home: index.md
+    - About: about.md
+
+
+theme: readthedocs
+
