@@ -1,4 +1,6 @@
 site_name: Stark Notes 
 
-theme: cinder
+theme:
+  name: null
+  custom_dir: 'cinder'
 
