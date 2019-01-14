@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Welcome to Stark Notes
 
 For full documentation visit [mkdocs.org](https://mkdocs.org).
 
@@ -15,3 +15,6 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+
+List of All Subjects
