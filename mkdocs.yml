@@ -1,6 +1,4 @@
 site_name: Stark Notes 
 
-theme:
-  name: null
-  custom_dir: 'cinder'
+theme: readthedocs
 
