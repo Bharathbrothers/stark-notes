@@ -1,7 +1,4 @@
 site_name: Stark Notes 
-theme:
-  name: 'material'
 
-nav:
-  - Home: index.md
-  - About: about.md
+theme: material
+
