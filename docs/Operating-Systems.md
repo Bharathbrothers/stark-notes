@@ -1,12 +1,12 @@
 #### Operating System
 
-1. Computer Peripherals
-2. Concurrency
-3. Context Switch
-4. Critical Section
-5. Dining Philosopher
-6. Disk Scheduling
-7. Disks
+#### Computer Peripherals
+#### Concurrency
+#### Context Switch
+#### Critical Section
+#### Dining Philosopher
+#### Disk Scheduling
+#### Disks
 8. Dma
 9. Effective Memory Access
 10. File
