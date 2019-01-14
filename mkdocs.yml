@@ -1,9 +1,13 @@
 site_name: Stark Notes for GATE
 
-nav:
-    - Home: index.md
-
-
 theme:
   name: 'material'
+  
+font:
+
+  # Default font for text
+  text: Roboto
+
+  # Fixed-width font for code listings
+  code: Roboto Mono
 
