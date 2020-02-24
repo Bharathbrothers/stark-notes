@@ -30,14 +30,23 @@ C Language is High-Level Language developed by **Dennis Ritchie** at Bell Labs.
 
 
 #### Aliasing
+
 #### Goto
+
 #### Identify Function
+
 #### Loop Invariants
+
 #### Parameter Passing
+
 #### Programming Constructs
-7. 
+ 
 #### Programming Paradigms
+
 #### Pseudo Code
+
 #### Recursion
+
 #### Runtime Environments
+
 #### Type Checking

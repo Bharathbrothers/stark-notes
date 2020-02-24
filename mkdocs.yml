@@ -4,5 +4,9 @@ theme: readthedocs
 
 extra_css: [extra.css]
 
+formats:
+- epub
+- pdf
+- htmllzip
 
 

@@ -7,15 +7,15 @@
 #### Dining Philosopher
 #### Disk Scheduling
 #### Disks
-8. Dma
-9. Effective Memory Access
-10. File
-11. File System
-12. Fork
-13. Inter Process Communication
-14. Interrupts
-15. Io Handling
-16. Linking
+#### 8. Dma
+#### 9. Effective Memory Access
+#### 10. File
+#### 11. File System
+#### 12. Fork
+#### 13. Inter Process Communication
+#### 14. Interrupts
+#### 15. Io Handling
+#### 16. Linking
 17. Memory Allocation
 18. Memory Management
 19. Os Protection
