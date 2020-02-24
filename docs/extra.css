@@ -1,6 +1,9 @@
-h1{
-color: 'red';
+p{
+color: 'grey';
 }
 p{
-  font-size: 50px;
+  font-size: 18px;
+}
+*{
+  font-family: san-serif;
 }
